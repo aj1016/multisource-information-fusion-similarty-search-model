@@ -8,7 +8,7 @@ How do I get set up?
 
   Follow the instructions: Copy the repository folder (Downloads from the menu on the left on this page) in Windows 64bit. In alternative use any other machine with python3 installed. If using the non-compiled python script, satisfy the dependencies listed.
 
-Usage
+Usage (The full code and data is in the master branches)
 
 1. Run the independent hydrological status similarty search model (HS-SSM) and view the prediction accuracy evaluation metrics:
     
